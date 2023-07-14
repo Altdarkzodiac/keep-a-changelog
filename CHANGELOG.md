@@ -1,11 +1,16 @@
-# Changelog
+
+# Changelog#[#550](https://github.com/olivierlacan/keep-a-changelog/issues/550)
+
 
 All notable changes to this project will be documented in this file.
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
+The format is based on [Keep a Changelog][def],
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md
 
-## [Unreleased]
+## [Unr```java
+h
+```ttps://creativecommons.org/choose/results-one?license_code=by&amp;jurisdiction=&amp;version=3.0&amp;lang=eneleased]
 
 ### Added
 
@@ -244,3 +249,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 [0.0.3]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.2...v0.0.3
 [0.0.2]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.1...v0.0.2
 [0.0.1]: https://github.com/olivierlacan/keep-a-changelog/releases/tag/v0.0.1
+
+
+[def]: https://keepachangelog.com/en/1.1.0/
